@@ -1,0 +1,9 @@
+# 忽略暫存文件
+.DS_Store
+node_modules/
+
+# 確保 HTML、CSS 和 JS 文件不被忽略
+!index.html
+!style.css
+!script.js
+
